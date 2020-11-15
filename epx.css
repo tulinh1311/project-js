@@ -5,15 +5,12 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
 h1 {
     text-decoration: underline;
     text-decoration-color: #ffc107;
 }
-.welcome {
-    height: 400px;
-    width: 100vw;
-    /* background-image: url(photo/ha-noi.jpg); */
-}
+
 .space {
     height: 50px;
 }
@@ -55,4 +52,8 @@ h1 {
     height: 400px;
     object-fit: cover;
 
+}
+
+.ava {
+    border: #ffc107 5px solid;
 }
