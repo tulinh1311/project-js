@@ -5,7 +5,10 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
+h1 {
+    text-decoration: underline;
+    text-decoration-color: #ffc107;
+}
 .welcome {
     height: 400px;
     width: 100vw;
